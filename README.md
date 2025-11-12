@@ -7,7 +7,7 @@ Kruskal's MST Simulator
 Greedy Algorithms / Graphs (ADSA)
 
 ## Author
-Ritika and deepshikha 
+Ritika and deepshikha and mayank
 
 ## Project Description
 Visualize edge selection in Kruskal’s algorithm. This console-based simulator demonstrates
